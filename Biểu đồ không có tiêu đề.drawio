@@ -76,7 +76,7 @@
             <mxRectangle width="30" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8GTq2mizvaAaw90g1Eo_-12" value="MACOQUAN" style="shape=partialRectangle;overflow=hidden;connectable=0;top=0;left=0;bottom=1;right=0;align=left;spacingLeft=6;fillColor=default;strokeWidth=1;" vertex="1" parent="8GTq2mizvaAaw90g1Eo_-10">
+        <mxCell id="8GTq2mizvaAaw90g1Eo_-12" value="MACOQUAN" style="shape=partialRectangle;overflow=hidden;connectable=0;top=1;left=1;bottom=1;right=1;align=left;spacingLeft=6;fillColor=default;strokeWidth=1;" vertex="1" parent="8GTq2mizvaAaw90g1Eo_-10">
           <mxGeometry x="30" width="220" height="35" as="geometry">
             <mxRectangle width="220" height="35" as="alternateBounds" />
           </mxGeometry>
